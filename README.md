@@ -1,2 +1,2 @@
 # LuftSchloss
-a personal rending project by Unity
+a personal rendering project by Unity
